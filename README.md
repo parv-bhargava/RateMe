@@ -1,8 +1,10 @@
 # RateMe: The Ultimate App Rating Platform
 
+<a href="http://ec2-3-144-149-146.us-east-2.compute.amazonaws.com:8080/">
 <p align="center">
 <img src="https://github.com/NatsuD99/Google_Play_Store/assets/58219175/906c18d8-8286-4b20-8500-7d2a59958d39" width="400" height="340" title="RateMe" alt="RateMe Logo">
 </p>
+</a>
 
 Welcome to RateMe, your go-to platform for estimating the potential rating of your Android app before even hitting the market. Whether you're a seasoned developer looking to optimize your app's features or a novice seeking guidance for your first app, RateMe has you covered. This platform leverages a sophisticated  Light Gradient Boosting Machine (LGBM) model, built on 14 distinct features and over 2 Million data, to predict the potential success of your Android application with an error margin of 0.19(RMSE) on a rating scale of 0-5.
 
