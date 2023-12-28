@@ -42,9 +42,6 @@ Welcome to RateMe, your go-to platform for estimating the potential rating of yo
 ## Model Details
 Our machine learning model, powered by Light Gradient Boosting Machine (LGBM), boasts an impressive Root Mean Square Error (RMSE) of 0.19. The rating scale is from 0 to 5, providing a precise estimation of your app's potential user rating. The model is trained on the 14 carefully selected features mentioned above, ensuring a comprehensive analysis of your app's attributes.
 
-## Deployment
-The RateMe platform is deployed as a user-friendly website. Leveraging the power of Flask and the accessibility of Heroku, our platform offers a user-friendly and responsive interface, enabling users to effortlessly navigate through input forms and receive accurate predictions for their app's potential rating.
-
 ## Contributions
 If you want to run this project and make changes on your own, keep the following in mind.
 1. Download your kaggle credentials and put it in the folder you are working on, in order to fetch the data in the code.
